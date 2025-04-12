@@ -67,7 +67,7 @@ cp -R * /var/www/html
 echo "finalizando aplicação..."
 
 ```
-### OBS: Todo Script Deve Ter:
+### 📌 OBS: Todo Script Deve Ter:
 ```sh
 #!/bin/bash
 
